@@ -1,4 +1,9 @@
-### Hi there 👋
+## Emmett A. Berger
+
+I am a student at The University of Texas at Austin interested in Psychology. 
+
+I am originally from Boston, MA, but I grew up in Dallas, TX. I am passionate about the technologies of the future, such as artificial intelligence and genetic engineering, and how we can harness their powers for good. 
+
 
 <!--
 **emmettberger/emmettberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
